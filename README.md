@@ -2,7 +2,7 @@
   <img src="https://github.com/brya-cota/brya-cota/blob/main/Pic.jpg" />
 </p>
 
-<h1 align="center">Hi, I'm Brya 👋</h1>
+<h1 align="center">Hi, Welcome to my GitHub 👋</h1>
 
 <p align="center">
   <strong>Software Engineer • AI/ML Student • Python Developer</strong>
