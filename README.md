@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/brya-cota/brya-cota/blob/main/7c7a1124-bc8b-488c-85aa-baba22d7abd4%20(1).png" />
+  <img src="https://github.com/brya-cota/brya-cota/blob/main/Pic.jpg" />
 </p>
 
 <h1 align="center">Hi, I'm Brya 👋</h1>
