@@ -1,7 +1,5 @@
-[<a href="file:///Users/bryacota/Downloads/7c7a1124-bc8b-488c-85aa-baba22d7abd4.png">View Local Image</a>
-](https://github.com/brya-cota/brya-cota/blob/main/7c7a1124-bc8b-488c-85aa-baba22d7abd4%20(1).png?raw=true)
 <p align="center">
-  <img src="https://via.placeholder.com/900x250.png?text=Brya+Cota+|+AI+%26+SWE+Developer" />
+  <img src="https://github.com/brya-cota/brya-cota/blob/main/7c7a1124-bc8b-488c-85aa-baba22d7abd4%20(1).png" />
 </p>
 
 <h1 align="center">Hi, I'm Brya 👋</h1>
