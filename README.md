@@ -5,7 +5,7 @@
 <h1 align="center">Hi, Welcome to my GitHub 👋</h1>
 
 <p align="center">
-  <strong>• AI/ML Student • Python Developer</strong>
+  <strong> AI/ML Student | Python Developer</strong>
 </p>
 
 ---
