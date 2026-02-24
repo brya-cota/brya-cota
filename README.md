@@ -1,4 +1,4 @@
-href="file:///Users/bryacota/Downloads/7c7a1124-bc8b-488c-85aa-baba22d7abd4.png">View Local Image</a>
+<a href="file:///Users/bryacota/Downloads/7c7a1124-bc8b-488c-85aa-baba22d7abd4.png">View Local Image</a>
 
 <p align="center">
   <img src="https://via.placeholder.com/900x250.png?text=Brya+Cota+|+AI+%26+SWE+Developer" />
